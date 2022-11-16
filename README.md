@@ -1,5 +1,6 @@
 # Risk_Manage
 This a project to create a Risk Management Plan, Risk Assessment Plan, Risk Mitigation Plan, Business Impact Analysis, and Business Continuity Plan.
+
 Scenario
 
 You are an IT security intern working for Health Network, Inc. (Health Network), a fictitious health services 
