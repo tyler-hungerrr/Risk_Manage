@@ -36,10 +36,10 @@ laptops and company-issued mobile devices for its employees.
 Threats Identified
 
 Upon review of the current risk management plan, the following threats were identified:
-• Loss of company data due to hardware being removed from production systems
-• Loss of company information on lost or stolen company-owned assets, such as mobile devices and laptops
-• Loss of customers due to production outages caused by various events, such as natural disasters, change 
-management, unstable software, and so on
-• Internet threats due to company products being accessible on the Internet
-• Insider threats
-• Changes in regulatory landscape that may impact operations
+Loss of company data due to hardware being removed from production systems,
+Loss of company information on lost or stolen company-owned assets, such as mobile devices and laptops,
+Loss of customers due to production outages caused by various events, such as natural disasters, change 
+management, unstable software, and so on,
+Internet threats due to company products being accessible on the Internet,
+Insider threats,
+Changes in regulatory landscape that may impact operations
